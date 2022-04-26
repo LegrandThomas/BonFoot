@@ -121,14 +121,21 @@ color: rgb(71, 223, 223);
 #gauche
 {
     float:left;
-    width: 60%;
+    width: 33%;
     margin-top: -12px;
  
 }
+#centre
+{
+    margin-left:33% ;  
+    width: 33%;
+   
+}
 #droite
 {
-    margin-left:60% ;  
-    
+    margin-left:66% ;  
+    margin-top: -90px;
+    width: 33%;
    
 }
 
